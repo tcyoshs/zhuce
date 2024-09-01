@@ -38,6 +38,8 @@ Claude目前不支持使用国内邮箱（如QQ、163邮箱）注册，因此建
 
 通过 [WildCard平台](https://bit.ly/WildCardo) 注册，你可以免费获取3次海外手机号申请机会，帮助你完成Claude的验证。这个平台不仅提供虚拟手机号，还能帮助你解决国外信用卡问题，是升级订阅Claude的理想选择。
 
+![image](https://github.com/user-attachments/assets/0bf29bdc-ff5d-44dd-81ed-7a2d7d1c280d)
+
 ## Claude注册完成后的使用体验
 
 成功注册Claude后，你可以立即体验Claude 3.5 Sonnet的强大功能。在使用过程中，你会发现它在文字创作和编程方面的表现尤为突出，速度也有显著提升。如果你需要更多功能，可以考虑升级到Claude Pro，通过WildCard平台轻松完成订阅升级。
